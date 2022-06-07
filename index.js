@@ -28,4 +28,4 @@ app.get("/contact", function (req, res) {
 });
 
 app.listen(8080);
-console.log("Server is listening on port 8080");
+console.log('Server running on http://localhost:8080/');

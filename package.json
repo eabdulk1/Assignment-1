@@ -1,17 +1,28 @@
 {
-  "name": "ejs-page-templates",
+  "name": "assignment",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "^12.00.0"
+  },
   "keywords": [],
-  "author": "",
+  "author": "ebtisam",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eabdulk1/Assignment-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eabdulk1/Assignment-1/issues"
+  },
+  "homepage": "https://github.com/eabdulk1/Assignment-1#readme",
+  "description": "huroko"
 }
